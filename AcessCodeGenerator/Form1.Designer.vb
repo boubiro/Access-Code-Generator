@@ -38,9 +38,9 @@ Partial Class Form1
         '
         'TextBox1
         '
-        Me.TextBox1.Location = New System.Drawing.Point(82, 6)
+        Me.TextBox1.Location = New System.Drawing.Point(88, 6)
         Me.TextBox1.Name = "TextBox1"
-        Me.TextBox1.Size = New System.Drawing.Size(188, 20)
+        Me.TextBox1.Size = New System.Drawing.Size(182, 20)
         Me.TextBox1.TabIndex = 1
         '
         'Label1
@@ -48,9 +48,9 @@ Partial Class Form1
         Me.Label1.AutoSize = True
         Me.Label1.Location = New System.Drawing.Point(12, 9)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(64, 13)
+        Me.Label1.Size = New System.Drawing.Size(70, 13)
         Me.Label1.TabIndex = 2
-        Me.Label1.Text = "Acess Code"
+        Me.Label1.Text = "Access Code"
         '
         'Form1
         '
@@ -61,7 +61,7 @@ Partial Class Form1
         Me.Controls.Add(Me.TextBox1)
         Me.Controls.Add(Me.Button1)
         Me.Name = "Form1"
-        Me.Text = "Acess Code Generator"
+        Me.Text = "Access Code Generator"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
